@@ -71,6 +71,9 @@ This code utilizes mixed precision training for faster training and reduced GPU 
 ## Dataset Split
 
 The code splits the STL-10 dataset into training, validation, and test sets. By default, it uses 80% of the data for training and 20% for validation. The test set is separate and used for evaluating the model's final performance.
+
+# Note 
+The Model file: "Resnet50.pt" was unable to upload on git repository due to the size of file even thought i tried uploading using git bash it was not uploading.
 =================================================================================================================================================================
 
 # Question No.3
